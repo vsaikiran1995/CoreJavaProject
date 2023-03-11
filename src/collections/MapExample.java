@@ -47,4 +47,6 @@ public class MapExample {
 		System.out.println("The resulting output is "+ map1);
 	}
 
+
+
 }
