@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vsaik
+ *
+ */
+module CoreJavaProject {
+}
