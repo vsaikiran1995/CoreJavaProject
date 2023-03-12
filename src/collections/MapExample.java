@@ -31,6 +31,7 @@ public class MapExample {
 			System.out.println("The value is "+ val);
 		}
 		
+		// Occurrance of a string in a statement **********Imp for Interview***********
 		String str = "Clean World Green World Happy World";
 		String[] arr1 = str.split(" ");
 		
@@ -46,7 +47,5 @@ public class MapExample {
 		}
 		System.out.println("The resulting output is "+ map1);
 	}
-
-
 
 }
